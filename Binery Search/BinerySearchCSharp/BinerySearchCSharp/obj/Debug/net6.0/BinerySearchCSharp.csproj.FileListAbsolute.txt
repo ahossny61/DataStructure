@@ -1,0 +1,15 @@
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\bin\Debug\net6.0\BinerySearchCSharp.exe
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\bin\Debug\net6.0\BinerySearchCSharp.deps.json
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\bin\Debug\net6.0\BinerySearchCSharp.runtimeconfig.json
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\bin\Debug\net6.0\BinerySearchCSharp.dll
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\bin\Debug\net6.0\BinerySearchCSharp.pdb
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.csproj.AssemblyReference.cache
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.AssemblyInfoInputs.cache
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.AssemblyInfo.cs
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.csproj.CoreCompileInputs.cache
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.dll
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\refint\BinerySearchCSharp.dll
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.pdb
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\BinerySearchCSharp.genruntimeconfig.cache
+D:\DotNetLearning\C#\DataStructure\Binery Search\BinerySearchCSharp\BinerySearchCSharp\obj\Debug\net6.0\ref\BinerySearchCSharp.dll
